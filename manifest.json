@@ -1,0 +1,21 @@
+{
+  "name": "FTCScores",
+  "short_name": "FTCScores",
+  "description": "Realtime Match Scores and Team Information for FIRST Tech Challenge",
+  "icons": [
+    {
+      "src": "img/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f57c00",
+  "background_color": "#f57c00"
+}
